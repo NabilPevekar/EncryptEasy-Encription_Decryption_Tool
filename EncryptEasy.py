@@ -37,7 +37,7 @@ def copy_result():
 
 # Create the main window
 root = tk.Tk()
-root.title("Caesar Cipher Encryption/Decryption")
+root.title("EncryptEasy")
 
 # Input Text Box
 input_label = tk.Label(root, text="Enter Text:")
