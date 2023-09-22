@@ -19,6 +19,7 @@
 🚀 Dive into the world of cryptography with EncryptEasy and let your data stay secure!
 
 🔗 Check out **LinkedIn Post**: [Demo Video] 
+https://www.linkedin.com/posts/nabil-d-pevekar-832884284_encrypteasy-cyberdosti-internship-activity-7110968777579597824-5kkR?utm_source=share&utm_medium=member_desktop
 
 
 Feel free to contribute, open issues, or provide feedback. Together, we can make EncryptEasy even better!
