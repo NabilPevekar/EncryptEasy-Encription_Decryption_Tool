@@ -13,7 +13,7 @@
 - Open-source and ready for contributions.
 
 ## Getting Started:
-1. Clone the repository: `git clone https://github.com/yourusername/EncryptEasy.git`
+1. Clone the repository: `https://github.com/NabilPevekar/EncryptEasy-Encryption_Decryption_Tool.git`
 2. Run the application: `python EncryptEasy.py`
 
 🚀 Dive into the world of cryptography with EncryptEasy and let your data stay secure!
